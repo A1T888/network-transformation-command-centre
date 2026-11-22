@@ -1,5 +1,9 @@
 # Network Transformation Command Centre
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange)
+![pandas](https://img.shields.io/badge/pandas-2.0-green)
+
 A complete end-to-end programme governance, performance measurement, and executive reporting system for a multi-workstream network transformation. Built on a fully reproducible synthetic dataset with predictive analytics and governance artefacts.
 
 ![Executive Dashboard](assets/portfolio_dashboard.png)
