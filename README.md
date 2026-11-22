@@ -4,6 +4,8 @@ A complete end-to-end programme governance, performance measurement, and executi
 
 ![Executive Dashboard](assets/portfolio_dashboard.png)
 
+![AI Risk Radar](assets/ai_risk_radar.png)
+
 ---
 
 ## About
