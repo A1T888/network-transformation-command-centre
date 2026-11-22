@@ -2,6 +2,12 @@
 
 A complete end-to-end programme governance, performance measurement, and executive reporting system for a multi-workstream network transformation. Built on a fully reproducible synthetic dataset with predictive analytics and governance artefacts.
 
+![Executive Dashboard](assets/portfolio_dashboard.png)
+
+## AI Risk Radar
+
+![AI Risk Radar](assets/ai_risk_radar.png)
+
 ---
 
 ## About
