@@ -1,5 +1,7 @@
 # Network Transformation Command Centre
 
+![Executive Dashboard](assets/portfolio_dashboard.png)
+
 A complete end-to-end programme governance, performance measurement, and executive reporting system for a multi-workstream network transformation. Built on a fully reproducible synthetic dataset with predictive analytics and governance artefacts.
 
 ---
