@@ -1,7 +1,5 @@
 # Network Transformation Command Centre
 
-> **Senior Director, Programme Management & Business Planning (Networks)** — Portfolio case study
-
 A complete end-to-end programme governance, performance measurement, and executive reporting system for a multi-workstream network transformation. Built on a fully reproducible synthetic dataset with predictive analytics and governance artefacts.
 
 ---
