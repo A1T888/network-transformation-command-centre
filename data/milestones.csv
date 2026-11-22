@@ -1,0 +1,17 @@
+workstream,milestone,baseline_date,forecast_date,status
+WS1,5G SA core design complete,2026-02-28,2026-03-07,Complete
+WS1,5G SA lab validation,2026-04-30,2026-05-15,Complete
+WS1,5G SA commercial launch,2026-09-30,,In progress
+WS1,VoNR enablement,2026-11-30,,In progress
+WS2,Fibre PoP augmentation,2026-03-31,2026-03-31,Complete
+WS2,Densification tranche 1 (120 nodes),2026-06-30,2026-07-18,Complete
+WS2,Densification tranche 2 (150 nodes),2026-10-31,,At risk
+WS3,OSS inventory consolidation,2026-04-30,2026-06-12,Complete
+WS3,BSS billing migration wave 1,2026-08-31,2026-09-25,Complete
+WS3,BSS billing migration wave 2,2026-12-15,,At risk
+WS4,Energy baseline audit,2026-03-15,2026-03-15,Complete
+WS4,Solar deployment phase 1,2026-08-31,2026-08-31,Complete
+WS4,AI-driven energy optimisation pilot,2026-11-30,,In progress
+WS5,Automation playbook v1 (L1),2026-03-31,2026-03-31,Complete
+WS5,L2 automation 25% coverage,2026-07-31,2026-08-14,Complete
+WS5,L3 automation 40% coverage,2026-12-31,,At risk

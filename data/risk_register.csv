@@ -1,0 +1,9 @@
+id,risk,likelihood,impact,response,action
+R1,Vendor Beta delivery velocity decline on fibre tranches,Possible,Severe,Mitigate,Escalated at Steering; recovery plan wk6; penalty clause invoked
+R2,BSS migration wave 2 data-quality defects,Likely,Major,Mitigate,Dual-run extended 4 wks; reconciliation tooling
+R3,5G device migration below plan,Possible,Major,Accept,Monitor; marketing bundle Q1
+R4,Key engineer attrition in OSS team,Likely,Moderate,Mitigate,Retention plan; cross-training 2 deputies
+R5,Capex under-burn masking slippage,Possible,Moderate,Mitigate,FIN-1 paired KPI adopted
+R6,Regulatory change on energy reporting,Rare,Major,Monitor,Track; contingency in WS4
+R7,AI pilot data-readiness shortfall,Possible,Moderate,Mitigate,Data contracts signed D30; shadow-mode scoring
+R8,Steering forum attendance decay,Possible,Moderate,Mitigate,Decision-only agendas; CTO chairing

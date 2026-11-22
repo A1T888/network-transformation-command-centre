@@ -1,0 +1,19 @@
+# Internal working papers (never push these)
+internal/
+SEPARATION_RATIONALE.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/

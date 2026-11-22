@@ -1,0 +1,17 @@
+milestone,workstream,prog_at_baseline,availability,mttr,vendor_min_score,risk_score,risk_quintile,target
+5G SA core design complete,WS1,0.818,99.9,5.04,3.275,0.0,Q1,0
+5G SA lab validation,WS1,0.976,99.925,4.77,3.275,0.0,Q1,0
+5G SA commercial launch,WS1,0.98,99.99,4.61,3.275,0.087,Q2,0
+VoNR enablement,WS1,0.98,99.99,4.51,3.275,0.11,Q3,0
+Fibre PoP augmentation,WS2,0.882,99.91,4.93,3.275,0.0,Q1,0
+Densification tranche 1 (120 nodes),WS2,0.98,99.915,4.67,3.275,0.0,Q1,0
+Densification tranche 2 (150 nodes),WS2,0.98,99.99,4.55,3.275,0.69,Q5,1
+OSS inventory consolidation,WS3,0.722,99.925,4.77,3.275,0.0,Q1,0
+BSS billing migration wave 1,WS3,0.98,99.99,4.63,3.275,0.027,Q1,0
+BSS billing migration wave 2,WS3,0.98,99.99,4.51,3.275,0.65,Q4,1
+Energy baseline audit,WS4,0.548,99.91,4.93,3.275,0.0,Q1,0
+Solar deployment phase 1,WS4,0.98,99.99,4.63,3.275,0.027,Q1,0
+AI-driven energy optimisation pilot,WS4,0.98,99.99,4.51,3.275,0.11,Q3,0
+Automation playbook v1 (L1),WS5,0.941,99.91,4.93,3.275,0.0,Q1,0
+L2 automation 25% coverage,WS5,0.98,99.932,4.71,3.275,0.0,Q1,0
+L3 automation 40% coverage,WS5,0.98,99.99,4.51,3.275,0.887,Q5,1
